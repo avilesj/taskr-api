@@ -1,0 +1,1 @@
+INSERT INTO TASK VALUES (1, 'First task!');
